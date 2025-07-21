@@ -2,7 +2,8 @@
 
 A beautiful, modern web application for translating between Sinhala and English languages. Built with pure HTML, CSS, and JavaScript for optimal performance and compatibility.
 
-![Uploading image.png…]()
+
+<img width="1893" height="921" alt="Screenshot 2025-07-21 170808" src="https://github.com/user-attachments/assets/842bd8e2-4563-4e6b-b338-161a2e2bb45e" />
 
 
 ## ✨ Features
